@@ -53,7 +53,7 @@ If you have any questions, feel free to contact han.liu@vanderbilt.edu or open a
 conda create --name synct python=3.8
 conda activate synct
 pip install -r requirements.txt
-pip install torch==1.10.1+cu111 torchvision==0.11.2+cu111 torchaudio==0.10.1 -f https://download.pytorch.org/whl/torch_stable.html
+pip install torch==1.10.1+cu113 torchvision==0.11.2+cu113 torchaudio==0.10.1 -f https://download.pytorch.org/whl/torch_stable.html
 ```
 
 ## Training and Validation
