@@ -1,4 +1,4 @@
-antspyx==0.3.2
+antspyx==0.3.8
 anyio==3.6.1
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
